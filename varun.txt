@@ -1,0 +1,3 @@
+welcome to multi cloud
+hi hello
+after git we are going to lesrn cicd 

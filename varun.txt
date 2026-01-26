@@ -2,3 +2,4 @@ welcome to multi cloud
 hi hello
 after git we are going to learn cicd 
 after git we learn aws
+ansible, Docker ,K8s,Jenkins,Promethus and Grafana
